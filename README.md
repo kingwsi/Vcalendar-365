@@ -3,7 +3,23 @@
 > Calendar
 > 简单实用的全年日历组件,按月份显示一年内所有天数
 
-## Build Setup
+![avatar](src/assets/image.png)
+
+## 参数说明
+
+`checked: 已选择日期数组，日期格式yyyyMMdd`
+
+`clickHandler: 点击事件，参数为day对象`
+```json
+{
+  index: "1",         // 索引
+  value: "20190909",  // 值
+  checked: true       // 选中
+}
+```
+
+
+## 运行
 
 ``` bash
 # install dependencies
