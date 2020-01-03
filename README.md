@@ -1,7 +1,7 @@
 # v-calendar
 
 > Calendar
-> 简单实用的全年日历组件,按月份显示一年内所有天数
+> 简单实用的全年日历组件,一次展示一年内所有天数，可用来做自定义节假日选择
 
 ![avatar](src/assets/image.png)
 
